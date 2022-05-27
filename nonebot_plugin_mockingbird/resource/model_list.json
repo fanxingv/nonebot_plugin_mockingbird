@@ -1,16 +1,16 @@
 {
-  "azusa": {
-    "nickname": "阿梓语音",
-    "url": {
-      "record_url": "https://pan.yropo.top/home/source/mockingbird/azusa/record.wav",
-      "model_url": "https://pan.yropo.top/home/source/mockingbird/azusa/azusa.pt"
-    }
-  },
   "nanmei": {
     "nickname": "小南莓语音",
     "url": {
       "record_url": "https://pan.yropo.top/home/source/mockingbird/nanmei/record.wav",
       "model_url": "https://pan.yropo.top/home/source/mockingbird/nanmei/nanmei.pt"
+    }
+  },
+ "azusa": {
+    "nickname": "阿梓语音",
+    "url": {
+      "record_url": "https://pan.yropo.top/home/source/mockingbird/azusa/record.wav",
+      "model_url": "https://pan.yropo.top/home/source/mockingbird/azusa/azusa.pt"
     }
   },
   "ltyai": {
